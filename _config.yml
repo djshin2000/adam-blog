@@ -1,4 +1,4 @@
-title: My personal blog - East Shin
+title: EastShin Blog
 email: djshin2000@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -10,8 +10,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Shin, Dong-Jin # add your name
-author-pic: adam-face.jpg
-about-author: My name is Dong-jin Shin. I’m a programer.
+author-pic: mbti_istp_virtuoso_face.png
+about-author: I’m a programer.
 
 # Contact links
 email: # Add your Email address
