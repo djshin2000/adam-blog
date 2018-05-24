@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Shin, Dong-Jin # add your name
 author-pic: mbti_istp_virtuoso_face.png
-about-author: I’m a programer.
+about-author: Have a nice day.
 
 # Contact links
 email: # Add your Email address
@@ -28,7 +28,7 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: djshin2000@gmail.com # mr-brown # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
